@@ -1,0 +1,30 @@
+body {
+  background: #eee;
+}
+.header {
+    background: #00abff;
+    padding: 5px;
+}
+.container {
+    padding-top: 50px;
+    background: white;
+}
+.error_msg{
+  color: red;
+}
+.p20{
+  padding: 20px;
+}
+.img_loader {
+    width: 20px;
+    padding: 2px;
+    margin-left: 7px;
+    display: none;
+}
+.canvas_details{
+  float:right;
+}
+.canvas_details p{
+  font-size: 13px;
+  margin-bottom: 3px;
+}
